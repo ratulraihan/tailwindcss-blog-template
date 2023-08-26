@@ -32,9 +32,9 @@ export default function Footer() {
                         </Link>
                     </div>
                 </div>
-                <div className="grid grid-cols-3 ml-auto gap-x-10 gap-y-8 lg:gap-y-20 md:gap-32 md:gap-y-12" >
+                <div className="grid grid-cols-3 ml-auto text-sm gap-x-10 gap-y-8 lg:gap-y-20 md:gap-32 md:gap-y-12" >
                     <div className="items-center list-none">
-                        <h2 className="text-xl font-bold">Business</h2>
+                        <h2 className="font-bold lg:text-xl">Business</h2>
                         <li><a href="">Startup</a></li>
                         <li><a href="">Employee</a></li>
                         <li><a href="">Success</a></li>
@@ -42,7 +42,7 @@ export default function Footer() {
                         <li><a href="">Markets</a></li>
                     </div>
                     <div className="items-center list-none">
-                        <h2 className="text-xl font-bold">Technology</h2>
+                        <h2 className="font-bold lg:text-xl">Technology</h2>
                         <li><a href="">Innovate</a></li>
                         <li><a href="">Gadget</a></li>
                         <li><a href="">Innovative Cities</a></li>
@@ -50,7 +50,7 @@ export default function Footer() {
                         <li><a href="">Future Tech</a></li>
                     </div>
                     <div className="items-center list-none">
-                        <h2 className="text-xl font-bold">Travel</h2>
+                        <h2 className="font-bold lg:text-xl">Travel</h2>
                         <li><a href="">Destination</a></li>
                         <li><a href="">Food & Drink</a></li>
                         <li><a href="">Stay</a></li>
@@ -58,7 +58,7 @@ export default function Footer() {
                         <li><a href="">Videos</a></li>
                     </div>
                     <div className="items-center list-none">
-                        <h2 className="text-xl font-bold">Entertainment</h2>
+                        <h2 className="font-bold lg:text-xl">Entertainment</h2>
                         <li><a href="">Movies</a></li>
                         <li><a href="">Artist</a></li>
                         <li><a href="">Television</a></li>
@@ -66,7 +66,7 @@ export default function Footer() {
                         <li><a href="">Viral</a></li>
                     </div>
                     <div className="items-center list-none">
-                        <h2 className="text-xl font-bold">Features</h2>
+                        <h2 className="font-bold lg:text-xl">Features</h2>
                         <li><a href="">As Equals</a></li>
                         <li><a href="">Call to Earth</a></li>
                         <li><a href="">Freedom Project</a></li>
@@ -74,7 +74,7 @@ export default function Footer() {
                         <li><a href="">2 Degress</a></li>
                     </div>
                     <div className="items-center list-none">
-                        <h2 className="text-xl font-bold">Weather</h2>
+                        <h2 className="font-bold lg:text-xl">Weather</h2>
                         <li><a href="">Climate</a></li>
                         <li><a href="">Strom Tracker</a></li>
                         <li><a href="">Wildfire Tracker</a></li>
