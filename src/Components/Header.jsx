@@ -13,7 +13,7 @@ export default function Header() {
     return (
         <header className="flex items-center justify-between pt-4 pb-2 mx-auto lg:py-6 container-fluid">
             <Link href="/">
-                <Image src="/news.png" alt="Digimax" width={120} height={60} />
+                <Image src="/logo.svg" alt="Digimax" width={120} height={60} />
             </Link>
 
             <Navigation />

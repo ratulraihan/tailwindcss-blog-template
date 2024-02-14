@@ -9,7 +9,7 @@ export default function Footer() {
             <div className="flex flex-col justify-start gap-8 lg:flex-row">
                 <div className="w-full lg:w-1/3 ">
                     <a href="">
-                        <Image src="/news.png" alt="LOGO" width={120} height={60} />
+                        <Image src="/logo.svg" alt="LOGO" width={120} height={60} />
                     </a>
                     <p className="py-4 text-sm">
                         Lorem ipsum dolor sit amet consectetur
